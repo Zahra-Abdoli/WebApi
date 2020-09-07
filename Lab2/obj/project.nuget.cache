@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "N+70e3YWoEwcdl0xJZNcI2NrtpqdyRWQFL1WK4SiYnzCZw05uASXE9GMrn9ct+OV7PsCY8p9yzB786MQLEhIJw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Svea User\\Source\\Repos\\WebApi2\\Lab2\\Lab2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Svea User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
