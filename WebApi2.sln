@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab8", "Lab8\Lab8.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Blazor", "Blazor\Blazor.csproj", "{6436B8E1-E652-4D38-89CA-2EFEF8E3447A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonCreate", "JsonCreate\JsonCreate.csproj", "{36DBC192-CA4A-4664-92DD-57A4E4B17FBD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{6436B8E1-E652-4D38-89CA-2EFEF8E3447A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6436B8E1-E652-4D38-89CA-2EFEF8E3447A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6436B8E1-E652-4D38-89CA-2EFEF8E3447A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36DBC192-CA4A-4664-92DD-57A4E4B17FBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36DBC192-CA4A-4664-92DD-57A4E4B17FBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36DBC192-CA4A-4664-92DD-57A4E4B17FBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36DBC192-CA4A-4664-92DD-57A4E4B17FBD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
