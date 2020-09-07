@@ -68,13 +68,13 @@
 
     private async Task GetCustomers()
     {
-        customers = await http.GetJsonAsync<List<CustomerModel>>("http://localhost:49521/api/customers");
+        //customers = await http.GetJsonAsync<List<CustomerModel>>("http://localhost:49521/api/customers");
         StateHasChanged();
     }
 
     private async Task CreateCustomer()
     {
-        await http.PostJsonAsync<List<CustomerCreateModel>>("http://localhost:49521/api/customers", customer);
+        //await http.PostJsonAsync<List<CustomerCreateModel>>("http://localhost:49521/api/customers", customer);
 
         customer = new CustomerCreateModel();
         await GetCustomers();

@@ -150,3 +150,8 @@ C:\Users\Svea User\Source\Repos\WebApi2\Lab8\bin\Debug\netcoreapp3.1\ru\Microsof
 C:\Users\Svea User\Source\Repos\WebApi2\Lab8\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\Svea User\Source\Repos\WebApi2\Lab8\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\Svea User\Source\Repos\WebApi2\Lab8\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Svea User\Source\Repos\WebApi2\Lab8\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Blazor.HttpClient.dll
+C:\Users\Svea User\Source\Repos\WebApi2\Lab8\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\Svea User\Source\Repos\WebApi2\Lab8\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Svea User\Source\Repos\WebApi2\Lab8\obj\Debug\netcoreapp3.1\Lab8.csproj.CoreCompileInputs.cache
+C:\Users\Svea User\Source\Repos\WebApi2\Lab8\obj\Debug\netcoreapp3.1\Lab8.MvcApplicationPartsAssemblyInfo.cache
