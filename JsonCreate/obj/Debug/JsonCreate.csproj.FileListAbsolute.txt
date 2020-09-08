@@ -1,0 +1,10 @@
+C:\Users\Svea User\Source\Repos\WebApi2\JsonCreate\bin\Debug\JsonCreate.exe.config
+C:\Users\Svea User\Source\Repos\WebApi2\JsonCreate\bin\Debug\JsonCreate.exe
+C:\Users\Svea User\Source\Repos\WebApi2\JsonCreate\bin\Debug\JsonCreate.pdb
+C:\Users\Svea User\Source\Repos\WebApi2\JsonCreate\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Svea User\Source\Repos\WebApi2\JsonCreate\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Svea User\Source\Repos\WebApi2\JsonCreate\obj\Debug\JsonCreate.csprojAssemblyReference.cache
+C:\Users\Svea User\Source\Repos\WebApi2\JsonCreate\obj\Debug\JsonCreate.csproj.CoreCompileInputs.cache
+C:\Users\Svea User\Source\Repos\WebApi2\JsonCreate\obj\Debug\JsonCreate.csproj.CopyComplete
+C:\Users\Svea User\Source\Repos\WebApi2\JsonCreate\obj\Debug\JsonCreate.exe
+C:\Users\Svea User\Source\Repos\WebApi2\JsonCreate\obj\Debug\JsonCreate.pdb
